@@ -1,0 +1,4 @@
+/notebooks/video/
+/notebooks/models/ColorizeArtistic_gen.pth
+/notebooks/models/ColorizeStable_gen.pth
+/notebooks/models/ColorizeVideo_gen.pth

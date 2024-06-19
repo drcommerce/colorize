@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv-python in c:\users\drcom\appdata\roaming\python\python310\site-packages (4.7.0.72)
+Requirement already satisfied: numpy>=1.21.2 in c:\users\drcom\appdata\roaming\python\python310\site-packages (from opencv-python) (1.23.5)
